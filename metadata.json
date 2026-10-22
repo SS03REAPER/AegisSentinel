@@ -1,0 +1,6 @@
+{
+  "name": "AegisSentinel: Autonomous Active Defense & Fail-Safe Console",
+  "description": "Critical infrastructure autonomous active cyber defense platform with out-of-band cryptographic dead-man's switch, microVM token-sink honeypots, Purdue data diodes, and Gemini incident intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
